@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 MY first commit
 =======
 My first readme
